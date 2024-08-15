@@ -3,20 +3,20 @@ Task Manager Final Project for MMS 146
 
 Group 3 Members:
 
-Sangalang, Cathlyn
+1) Sangalang, Cathlyn
 
-Boholano, Marcial Rode
+2) Boholano, Marcial Rode
 
-Revilla, Isaiah Caleb
+3) Revilla, Isaiah Caleb
 
-Balita, Ziane Ysabel
+4) Balita, Ziane Ysabel
 
-Capon, Angela Joyce
+5) Capon, Angela Joyce
 
-Bernarte, Nhel Ceejay
+6) Bernarte, Nhel Ceejay
 
-De Guzman, Amos Benjamin
+7) De Guzman, Amos Benjamin
 
-Flores, Glenn Paul Jr
+8) Flores, Glenn Paul Jr
 
-Tupas, Pamela Noelle
+9) Tupas, Pamela Noelle
