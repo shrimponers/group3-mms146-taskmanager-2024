@@ -20,3 +20,5 @@ Group 3 Members:
 8) Flores, Glenn Paul Jr
 
 9) Tupas, Pamela Noelle
+
+Our group has decided to create a task manager for our project. Task manager software consists of programs that list tasks and schedules so that people can plan and achieve their goals more effectively. It’s very useful in real life, especially for students like us. By collaborating using this type of program, we'll also be able to work more efficiently in real life!
